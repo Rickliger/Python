@@ -1,0 +1,4 @@
+notebook
+Smartphone
+Monitor
+Mouse
